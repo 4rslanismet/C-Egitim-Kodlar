@@ -16,7 +16,7 @@ int main ()
 
 	for(i=0;i<yildiz;i++)
 	{
-		for(j=5;j>i;j--)
+		for(j=yildiz;j>i;j--)
 		printf("*");
 		
 	  printf("\n");
