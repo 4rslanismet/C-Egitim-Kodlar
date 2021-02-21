@@ -1,0 +1,4 @@
+https://github.com/BilgisayarKavramlari/Programlamaya-Giris/projects
+
+https://www.geeksforgeeks.org/arrays-in-c-cpp/
+
