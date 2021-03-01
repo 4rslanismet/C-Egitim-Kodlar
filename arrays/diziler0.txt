@@ -2,3 +2,18 @@ https://github.com/BilgisayarKavramlari/Programlamaya-Giris/projects
 
 https://www.geeksforgeeks.org/arrays-in-c-cpp/
 
+-> klavyeden girilen N elamanlı A dizisinin en büyük ve en küçük 
+elemanlarını ve bu elemanların kaçıncı sırada olduklarını bulan program
+
+
+-> kullanıcıdan aldığı bir boyut alıp o kadar değer alan ve sonrasında
+önce bir dizinin elemanlarını küçükten büyüğe, sonra çift sayıları 
+küçükten büyüğe sıralayan ve daha sonra dizi elemanlarını yazdıran 
+C programı yazınız.
+
+-> doğrusal basit bir arama algoritması
+
+-> multi dimensional arrays (çok boyutlu diziler)
+
+https://www.programiz.com/c-programming/c-multi-dimensional-arrays
+
