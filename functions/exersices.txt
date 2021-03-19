@@ -1,0 +1,43 @@
+Aşağıdaki problemleri mümkün olduğu kadar fonksiyon kullanarak çözünüz:
+
+
+0.
+ 1.diziden aldığı elemanları 2. dizi elemanları ile çarpan
+Sadece toplama işlemini kullanarak çarpma işlemi yapan bir kod yazınız.
+Örneğin f(3,4) sonucunu 12 bulmalısınız. (Hatırlatma: her çarpma işlemi aslında ilk sayının, ikinci sayı kadar kendisi ile toplanmasıdır yani 3x4=3+3+3+3 olarak yazılabilir )
+
+
+1.
+   Verilen bir dizideki her ikilinin toplamlarının mutlak değerini döndüren bir kod yazınız (Örneğin 7,3,-2,5,0,20 sayıları için (7+3); (-2+5); (0+20) => 4 + 7 + 20 = 31)
+
+2.
+   Verilen bir dizideki en büyük 3 sayının toplamını döndüren kodu yazınız.
+ 
+3.
+   Verilen bir dizideki tek sayıların ortalamasını bulan kod yazınız.
+   
+4. 
+  Verilen bir dizideki çift sayıların en büyüğü ile en küçüğün ortalamasını bulan kod yazınız    
+  
+5.
+  İki diziyi karşılaştırıp, birinci dizinin, ikinci dizinin bir parçası olup olmadığını bulan kod yazınız.    
+  
+6.
+  Bir dizi alarak bu sayıların RMS (Root Mean Square) bulan kodu yazınız.
+ A. Basitçe üç aşamadan oluşur: Değerlerin karelerini al (square) ,
+ B. kareleri alınan bu değerlerin ortalamasını al (mean)
+ C. bu ortalama değerinin karekökünü al (root)
+ 
+7.
+  Bir firma, mesaiye kalan çalışanlarının mesai fiyatlarını hesaplayan bir program istemektedir. Buna göre bir çalışan aylık olarak 10 saate kadar mesaiye kaldıysa saat başına 1 tl, 10-20 arasında 2 tl, 20-40 arasında 3 tl , 40-100 arasında 4 tl ve 100 den fazla saat için 5 tl saat ücreti ödemektedir. Kullanıcıdan çalışanın kaç saat mesaiye kaldığını soran ve buna göre aylık mesai ücretini hesaplayarak ekrana basan bir program yazınız.   
+  
+8.
+ 5 bitlik binary sayıyı decimal bir sayıya dönüştüren kodu yazınız.
+ 
+9.
+  Öğrenci numaranızı okuyan ve size geri yazan bir program yazınız.  
+       
+10.
+   Çağırıldığında "merhaba dünya" yazdıran fonksiyon  
+    
+   
